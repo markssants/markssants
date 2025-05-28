@@ -7,7 +7,7 @@ Aqui você encontra um pouco do que ando desenvolvendo, testando e finalizando. 
 ## 🚧 Projetos em Andamento
 
 ### 🎬 **Cortar-Youtube**
-- Um utilitário para marcar trechos de vídeos no YouTube e baixá-los de forma prática.
+- Um utilitário para marcar trechos de vídeos no YouTube e baixá-los de forma prática já recortado.
 - Baixar Playlist completa.
 - Baixar vídeo completo.
 - Converter em Música .mp3.
