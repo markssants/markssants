@@ -6,14 +6,15 @@ Aqui você encontra um pouco do que ando desenvolvendo, testando e finalizando. 
 
 ## 🚧 Projetos em Andamento
 
-### 🎬 **Cortar-Youtube**
-- Um utilitário para marcar trechos de vídeos no YouTube e baixá-los de forma prática já recortado.
-- Baixar Playlist completa.
-- Baixar vídeo completo.
+### 🎬 **Tools_Tube** ✂️
+Uma poderosa ferramenta de terminal
+- Marca trechos de vídeos no YouTube e baixa de forma prática já recortado ou baixa os vídeos completos.
+- Baixa Playlist completa em vídeo ou música.
+- Baixa Multiplos vídeos
 - Converter em Música .mp3.
 
 
-🔗 [Ver Repositório](https://github.com/markssants/cortar-youtube)  
+🔗 [Ver Repositório](https://github.com/markssants/Tools_Tube)  
 📌 [Acompanhar Projeto](https://github.com/users/markssants/projects/1)
 
 ---
