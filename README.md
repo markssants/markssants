@@ -8,8 +8,8 @@ Aqui você encontra um pouco do que ando desenvolvendo, testando e finalizando. 
 
 ### 🎬 **Tools_Tube** ✂️
 Uma poderosa ferramenta de terminal
-- Marca trechos de vídeos no YouTube e baixa de forma prática já recortado o Início e Fim. (Ou baixa os Vídeos completos).
-- Baixa Playlist completa em Vídeo ou Música.
+- Marca trechos de vídeos no YouTube e baixa já recortado o Início e Fim. (Ou baixa os Vídeos completos).
+- Baixa Playlist completa em Vídeo ou Música de forma prática.
 - Baixa Multiplos Vídeos ou Músicas.
 - Converter em Música .mp3.
 
