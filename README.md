@@ -22,7 +22,7 @@ Uma poderosa ferramenta de terminal
 ## ✅ Projetos Finalizados
 
 ### 📚 **Baixar-Curso**
-Script para automatizar o download de vídeos de canais do Telegram, com organização por nome de aula.
+Script para automatizar o download de cursos de canais do Telegram, com organização por nome de aula.
 
 🔗 [Ver Repositório](https://github.com/markssants/baixar-curso)
 
